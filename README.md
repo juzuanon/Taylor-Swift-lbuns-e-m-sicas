@@ -6,8 +6,6 @@ Já se perguntou em qual álbum da Taylor Swift aquela música que você ama tan
 
 Digite o nome da música (ou parte dele) e pronto! A mágica acontece: você verá uma lista com os álbuns que correspondem à sua pesquisa, junto com uma breve descrição e um link direto para ouvir no Spotify.
 
-**Como funciona a mágica?**
-
 Por trás dos panos, temos um pouquinho de JavaScript trabalhando duro para te entregar os resultados.
 
 ##  Funcionalidades
@@ -15,7 +13,7 @@ Por trás dos panos, temos um pouquinho de JavaScript trabalhando duro para te e
 * **Resultados detalhados:** Visualize o nome do álbum, uma breve descrição e um link para ouvir no Spotify.
 * **Interface intuitiva:** Uma interface simples e fácil de usar.
 
-## ️ Tecnologias
+**Como funciona a mágica?**
 * **HTML**: A estrutura básica da página, onde tudo acontece.
 * **CSS**: O responsável por deixar tudo bonitinho e organizado, com cores e fontes que combinam com o universo da Taylor.
 * **JavaScript**: A mente por trás da aplicação, fazendo todas as buscas e manipulando a página para mostrar os resultados dos melhores álbuns pop do planeta.
