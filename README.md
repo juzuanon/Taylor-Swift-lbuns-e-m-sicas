@@ -13,14 +13,7 @@
 * **JavaScript:** Lógica da aplicação.
 
 ##  Como usar
-1. **Clone o repositório:**
-   ```bash
-   git clone [URL inválido removido]
-   ```
-2. **Abra o arquivo index.html:**
-   Abra o arquivo `index.html` em seu navegador.
-3. **Faça sua busca:**
-   Digite o nome da música no campo de pesquisa e pressione Enter.
+Você pode visitar a página criada por meio do Vercel, clicando neste linl=k **https://taylorswift-hazel.vercel.app/**
 
 ##  Contribuições
 Contribuições são bem-vindas! Para contribuir, siga estes passos:
