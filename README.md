@@ -1,9 +1,9 @@
 #  Desvendando a discografia da Taylor Swift
 
-**Uma aplicação para os fãs de Taylor Swift encontrarem suas músicas favoritas nos álbuns da lorinha.**
+**Uma aplicação para os fãs de Taylor Swift encontrarem suas músicas favoritas nos álbuns da loirinha!**
 
 ##  Funcionalidades
-* **Busca por música:** Encontre em qual álbum está aquela música que você ama.
+* **Busca por música ou por álbum:** Encontre em qual álbum está aquela música que você ama.
 * **Resultados detalhados:** Visualize o nome do álbum, uma breve descrição e um link para ouvir no Spotify.
 * **Interface intuitiva:** Uma interface simples e fácil de usar.
 
